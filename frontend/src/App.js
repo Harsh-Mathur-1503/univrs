@@ -1,13 +1,14 @@
 import React from 'react'
-import Stars from "./components/particles";
+import Details from './pages/Details';
+
 import Home from './pages/Home';
 
 
 const App = () => {
   return (
-    <div className='app'>
+    <div className='app mt-0'>
       <Home/>
-      <Stars/>
+      <Details/>
     </div>
   )
 }

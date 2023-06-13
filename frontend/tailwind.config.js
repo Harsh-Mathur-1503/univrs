@@ -17,7 +17,8 @@ module.exports = {
         'primary-300': '#fe8a2d',
         'primary-200': '#fe9743',
         'primary-100': '#fea359',
-        'secondary': '#f9f9f9'
+        'secondary': '#f9f9f9',
+        'background': 'radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%)'
       }
     },
   },
